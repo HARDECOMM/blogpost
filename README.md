@@ -49,6 +49,7 @@ Includes authentication, protected routes, categories, and a personalized dashbo
 
 ## 📂 Project Structure
 
+```
 myblog/
 ├── backend/
 │ ├── models/ # Mongoose schemas (User, Post, Comment)
@@ -63,7 +64,7 @@ myblog/
 │ │ ├── pages/ # Home, AllPosts, PostDetail, CreateEditPage, Profile, Dashboard, Login, Register
 │ │ └── App.jsx # Routes
 └── README.md
-
+```
 text
 
 ---
